@@ -4,5 +4,5 @@ hacer git add .
 git commit -m "mensaje"
 git push
 # ignorado
-Al realizar las acciones de el archivo .gitignore nos oculta de github la carpeta que hemos seleccionado en el archivo.
+Al realizar las acciones de el archivo .gitignore nos oculta de github la carpeta que hemos seleccionado en el archivo, en este caso ruta_2aux.
 
